@@ -1,0 +1,1 @@
+a couple examples of dynamic snippets in about home.  
